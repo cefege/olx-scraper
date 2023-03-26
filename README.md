@@ -1,4 +1,4 @@
-# Web Scraping with Selenium, BeautifulSoup and Pandas
+# OLX Scraper with Selenium, BeautifulSoup and Pandas
 
 This Python code scrapes data from the website "www.olx.ro", which is a Romanian online marketplace. Specifically, it retrieves information about any any category on the sie for example accounting and translation services in Iasi city, which are advertised on this website. 
 
